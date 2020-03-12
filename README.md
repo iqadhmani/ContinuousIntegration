@@ -1,5 +1,5 @@
 # ContinuousIntegration
- INFO2300 Assignment 3
+ INFO2300 Assignment 3 - Ibrahim Qadhmani
 
 # Why MIT Licence
  It is very short, very easy to understand, and allows anyone to do anything with the application so long as they keep a copy of the   license, including my copyright notice. Also, I will be able to release the project under a different license if I ever need to.
